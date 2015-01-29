@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="no.hiof.luu.databytes.app" >
+    package="luu.hiof.no.databytes.app" >
 
     <application
         android:allowBackup="true"
