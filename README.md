@@ -1,7 +1,7 @@
 ================================================================================
                                 dataBytes
                 A simple data monitor usage of 2G/3G/4G 
-                          and Wi-Fi for Android 
+                          and Wi-Fi for Android !
 
 
 
